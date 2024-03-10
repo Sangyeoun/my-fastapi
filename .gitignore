@@ -1,0 +1,8 @@
+.idea
+.venv
+__pycache__
+migrations
+myapi.db
+*.pyc
+alembic.ini
+.python-version
