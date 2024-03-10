@@ -7,15 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-.python-version
-.idea
-.venv/
-myapi.db
-*.pyc
-__pycache__
-migrations
-alembic.ini
-
 node_modules
 dist
 dist-ssr
